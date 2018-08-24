@@ -71,15 +71,17 @@ http://bit.ly/2o6nJRt
 
 | Conteúdo                                                 | Link                  |
 |----------------------------------------------------------|-----------------------|
-| Apresentação                                             | http://bit.ly/2o6fTHF |
-| Dinâmicas                                                | http://bit.ly/2BHomuI |
-| Exercícios de Nivelação                                  | http://bit.ly/2BJJ90z |
-| Orientações Gerais                                       | http://bit.ly/2BHoOZW |
-| Planejamento                                             | http://bit.ly/2BFCcgQ |
+| Apresentação                                             | http://bit.ly/2BJg6dp |
+| Dinâmicas                                                | http://bit.ly/2BQk6c2 |
+| Documentação Base                                        | http://bit.ly/2BVICcb |
+| Orientações Gerais                                       | http://bit.ly/2o6DcBh |
+| Planejamento                                             | http://bit.ly/2o8QbCA |
+| Comandos Básicos Linux                                   | http://bit.ly/2o6DiZF |
+| Versionamento de Arquivos com GIT                        | http://bit.ly/2o6JyQV |
 
 ## Códigos, Exemplos e Materiais
 
-http://bit.ly/2o6nJRt
+http://bit.ly/2o96xLm
 
 # Estrutura de Dados
 

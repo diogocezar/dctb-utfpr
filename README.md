@@ -19,7 +19,7 @@ __REPOSITÓRIO EM CONSTUÇÃO__
 ## Índice de Disciplinas
 
 * [(2017/2) [AN32F-IF62C] Técnicas de Programação](#técnicas-de-programação)
-* [(2017/2) [AN34E] Oficina de Integração]()
+* [(2017/2) [AN34E] Oficina de Integração](#oficina-de-integração)
 * [(2017/2) [IF61D] Lógica de Programação]()
 * [(2017/2) [IF67I] Programação Web 2]()
 * [(2018/1) [AN33A-N13] Programação Desktop]()
@@ -78,10 +78,66 @@ http://bit.ly/2o6nJRt
 | Planejamento                                             | http://bit.ly/2o8QbCA |
 | Comandos Básicos Linux                                   | http://bit.ly/2o6DiZF |
 | Versionamento de Arquivos com GIT                        | http://bit.ly/2o6JyQV |
+| Repositórios dos Projetos Apresentados                   | http://bit.ly/2BLrwxu |
 
 ## Códigos, Exemplos e Materiais
 
 http://bit.ly/2o96xLm
+
+# Lógica de Programação
+
+## Conteúdo
+
+Essa disciplina foi ministrada por conta de uma substituição, por esse motivo utilizei os materiais do professor ausente.
+
+## Códigos, Exemplos e Materiais
+
+http://bit.ly/2BLglVA
+
+# Programação Web 2
+
+## Conteúdo
+
+| Conteúdo                                                 | Link                  |
+|----------------------------------------------------------|-----------------------|
+| Apresentação                                             | http://bit.ly/2BKV7a8 |
+| Dinâmicas                                                | http://bit.ly/2BJmhOB |
+| Orientações Gerais                                       | http://bit.ly/2oaEfzT |
+| Planejamento                                             | http://bit.ly/2o8Rx08 |
+| Comandos Básicos Linux                                   | http://bit.ly/2o4Tc6G |
+| Versionamento de Arquivos com GIT                        | http://bit.ly/2o6KjcQ |
+| Conhecendo a Internet                                    | http://bit.ly/2o5JLE7 |
+| HTML5                                                    | http://bit.ly/2o8SdCI |
+| Protocolo HTTP                                           | http://bit.ly/2o6LrNC |
+| CSS3                                                     | http://bit.ly/2o6FCzR |
+| JavaScript                                               | http://bit.ly/2o8n95M |
+| JQuery e AJAX                                            | http://bit.ly/2o8KfJq |
+| Automatizadores para Web                                 | http://bit.ly/2o8neGC |
+| Ecossistema JavaScript                                   | http://bit.ly/2o7YLS3 |
+| Frameworks CSS                                           | http://bit.ly/2o9s32E |
+| SASS                                                     | http://bit.ly/2o4OK86 |
+| CSS Flex e CSS Grid                                      | http://bit.ly/2o8nnKa |
+| SVG                                                      | http://bit.ly/2o7FArj |
+| A linguagem PHP - Parte 1                                | http://bit.ly/2o8Kvbm |
+| A linguagem PHP - Parte 2                                | http://bit.ly/2o7Gwfj |
+| A linguagem PHP - Parte 3                                | http://bit.ly/2o7Z6Ej |
+| A linguagem PHP - Parte 4                                | http://bit.ly/2oey91P |
+| Composer                                                 | http://bit.ly/2o9tfDa |
+| PDO no PHP                                               | http://bit.ly/2oaGjI9 |
+| PHP MVC                                                  | http://bit.ly/2o93QcO |
+| PHP Namespaces                                           | http://bit.ly/2o6MzRm |
+| PHP MVC PDO                                              | http://bit.ly/2o5v3Nn |
+| Rotas e Templates HTML                                   | http://bit.ly/2oeyqln |
+| Laravel - Parte 1                                        | http://bit.ly/2o6MJbq |
+| Laravel - Parte 2                                        | http://bit.ly/2o98JT6 |
+| Laravel - Parte 3                                        | http://bit.ly/2BKXV7a |
+| Laravel - Parte 4                                        | http://bit.ly/2BVM9ar |
+| Laravel - Parte 5                                        | http://bit.ly/2BQmEqC |
+| Wordpress, CakePHP e CodeIngnter                         | http://bit.ly/2BJkIjV |
+
+## Códigos, Exemplos e Materiais
+
+http://bit.ly/2BJlQEb
 
 # Estrutura de Dados
 

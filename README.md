@@ -20,8 +20,8 @@ __REPOSITÓRIO EM CONSTUÇÃO__
 
 * [(2017/2) [AN32F-IF62C] Técnicas de Programação](#técnicas-de-programação)
 * [(2017/2) [AN34E] Oficina de Integração](#oficina-de-integração)
-* [(2017/2) [IF61D] Lógica de Programação]()
-* [(2017/2) [IF67I] Programação Web 2]()
+* [(2017/2) [IF61D] Lógica de Programação](#lógica-de-programação)
+* [(2017/2) [IF67I] Programação Web 2](#programação-web-2)
 * [(2018/1) [AN33A-N13] Programação Desktop]()
 * [(2018/1) [AN34A-N14] Programação Web]()
 * [(2018/1) [ES31A-ES11] Intr. Eng. de Software]()
@@ -30,6 +30,8 @@ __REPOSITÓRIO EM CONSTUÇÃO__
 * [(2018/2) [IF66H-ES61] Programação Web 1]()
 * [(2018/2) [ES31A-ES11] Intr. Eng. de Software]()
 * [(2018/2) [IF62B-A21] Linguagem de Programação]()
+
+---
 
 # Técnicas de Programação
 
@@ -65,6 +67,8 @@ __REPOSITÓRIO EM CONSTUÇÃO__
 
 http://bit.ly/2o6nJRt
 
+---
+
 # Oficina de Integração
 
 ## Conteúdo
@@ -84,6 +88,8 @@ http://bit.ly/2o6nJRt
 
 http://bit.ly/2o96xLm
 
+---
+
 # Lógica de Programação
 
 ## Conteúdo
@@ -93,6 +99,8 @@ Essa disciplina foi ministrada por conta de uma substituição, por esse motivo 
 ## Códigos, Exemplos e Materiais
 
 http://bit.ly/2BLglVA
+
+---
 
 # Programação Web 2
 
@@ -138,6 +146,45 @@ http://bit.ly/2BLglVA
 ## Códigos, Exemplos e Materiais
 
 http://bit.ly/2BJlQEb
+
+---
+
+# Programação Desktop
+
+## Conteúdo
+
+| Conteúdo                                                 | Link                  |
+|----------------------------------------------------------|-----------------------|
+| Apresentação                                             | http://bit.ly/2BJvo1T |
+| Dinâmicas                                                | http://bit.ly/2BVN22L |
+| O Futuro da Educação                                     | http://bit.ly/2BVNzlh |
+| Orientações Gerais                                       | http://bit.ly/2BVO2Uz |
+| Planejamento                                             | http://bit.ly/2BVPczp |
+| Versionamento de Arquivos com GIT                        | http://bit.ly/2BLlIUK |
+| Revisão e Exercícios de Fixação - Parte 1                | http://bit.ly/2BFQe20 |
+| Revisão e Exercícios de Fixação - Parte 2                | http://bit.ly/2BLmcdw |
+| IDE Netbeans                                             | http://bit.ly/2BJK6WE |
+| Exercício de Fixação e T1                                | http://bit.ly/2BJnQwb |
+| Caixas de Diálogo com JOptionPane                        | http://bit.ly/2BJM9tO |
+| Interfaces Gráficas Swing - Parte 1                      | http://bit.ly/2BJk59R |
+| Interfaces Gráficas Swing - Parte 2                      | http://bit.ly/2BKYVYY |
+| Interfaces Gráficas Swing - Parte 3                      | http://bit.ly/2BJMpcg |
+| Manipulação de Arquivos - Parte 1                        | http://bit.ly/2BFQJco |
+| Manipulação de Arquivos - Parte 2                        | http://bit.ly/2BS3bWW |
+| Manipulação de Arquivos - Parte 3                        | http://bit.ly/2BJqSjP |
+| Banco de Dados - Parte 1                                 | http://bit.ly/2BS4MvU |
+| Banco de Dados - Parte 2                                 | http://bit.ly/2BIwDhI |
+| Banco de Dados - Parte 3                                 | http://bit.ly/2BS5ZTY |
+| T2                                                       | http://bit.ly/2BLmCR8 |
+| Relatórios em Java                                       | http://bit.ly/2BQqVdE |
+| Multithreading em Java                                   | http://bit.ly/2P2Le9G |
+| Sincronização de Threads                                 | http://bit.ly/2BIwXgq |
+
+## Códigos, Exemplos e Materiais
+
+http://bit.ly/2OZxD2W
+
+---
 
 # Estrutura de Dados
 

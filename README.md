@@ -29,13 +29,13 @@ diogo@diogocezar.com
 
 ---
 
-# Talks UTFWARE 2017
+# Talks UTFWare 2017
 
 ## Por que JavaScript?
 
 http://bit.ly/2BKKPab
 
-# Minicursos UTFWARE 2017
+# Minicursos UTFWare 2017
 
 ## Git e GitHub
 

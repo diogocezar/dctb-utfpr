@@ -29,6 +29,24 @@ diogo@diogocezar.com
 
 ---
 
+# Talks UTFWARE 2017
+
+## Por que JavaScript?
+
+http://bit.ly/2BKKPab
+
+# Minicursos UTFWARE 2017
+
+## Git e GitHub
+
+http://bit.ly/2BL72VD
+
+## SASS
+
+http://bit.ly/2LrSYQm
+
+---
+
 # Técnicas de Programação
 
 ## Conteúdo

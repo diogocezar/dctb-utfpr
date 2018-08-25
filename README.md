@@ -22,7 +22,7 @@ __REPOSITÓRIO EM CONSTUÇÃO__
 * [(2017/2) [AN34E] Oficina de Integração](#oficina-de-integração)
 * [(2017/2) [IF61D] Lógica de Programação](#lógica-de-programação)
 * [(2017/2) [IF67I] Programação Web 2](#programação-web-2)
-* [(2018/1) [AN33A-N13] Programação Desktop]()
+* [(2018/1) [AN33A-N13] Programação Desktop](#programação-desktop)
 * [(2018/1) [AN34A-N14] Programação Web]()
 * [(2018/1) [ES31A-ES11] Intr. Eng. de Software]()
 * [(2018/1) [SO33A-ES31] Estrutura de Dados](#estrutura-de-dados)
@@ -183,6 +183,44 @@ http://bit.ly/2BJlQEb
 ## Códigos, Exemplos e Materiais
 
 http://bit.ly/2OZxD2W
+
+---
+
+# Introdução a Engenharia de Software
+
+## Conteúdo
+
+| Conteúdo                                                 | Link                  |
+|----------------------------------------------------------|-----------------------|
+| Apresentação                                             | http://bit.ly/2LlABfW |
+| Comandos Básicos Linux                                   | http://bit.ly/2LoM12D |
+| Dinâmicas                                                | http://bit.ly/2LoMsdh |
+| Orientações Gerais                                       | http://bit.ly/2LoN1np |
+| Planejamento                                             | http://bit.ly/2LmSr1X |
+| O Futuro da Educação                                     | http://bit.ly/2LtcRq6 |
+| Apresentação do Curso                                    | http://bit.ly/2LortHu |
+| Um pouco sobre Engenharia de Software                    | http://bit.ly/2LpVvKT |
+| Comportamento Ético e Profissional                       | http://bit.ly/2LpVwOX |
+| Áreas de Atuação e Competências                          | http://bit.ly/2LmTzCJ |
+| Crise de Software                                        | http://bit.ly/2BTgE0G |
+| Introdução a Metodologia Científica                      | http://bit.ly/2LogDkA |
+| Documentos Acadêmicos com LaTeX                          | http://bit.ly/2LrPltH |
+| Teoria Geral de Sistemas de Software                     | http://bit.ly/2LogE88 |
+| Git e GitHub                                             | http://bit.ly/2BL2qyD |
+| Instruções Apresentações                                 | http://bit.ly/2LrIsc1 |
+| Processos de Software                                    | http://bit.ly/2LogHAQ |
+| Requisitos de Software                                   | http://bit.ly/2LqtFye |
+| Análise e Projetos de Sistemas                           | http://bit.ly/2LqamEX |
+| Diagramas de Casos de Uso                                | http://bit.ly/2LqYsL0 |
+| Diagramas de Atividades                                  | http://bit.ly/2Lqb3Oz |
+| Diagramas de Classes                                     | http://bit.ly/2LmSr1X |
+| Testes de Software                                       | http://bit.ly/2Los9N2 |
+
+
+## Códigos, Exemplos e Materiais
+
+* (2018/1) - http://bit.ly/2Los9N2
+* (2018/2) - http://bit.ly/2Lq7DLK
 
 ---
 

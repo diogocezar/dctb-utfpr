@@ -353,7 +353,7 @@ http://bit.ly/2o7w6fG
 
 ---
 
-#TCC
+# TCC
 
 Aqui estão algumas sugestões e dicas para organização de um TCC.
 
@@ -361,7 +361,7 @@ https://github.com/utfpr-cp/prof-diogo-tcc
 
 ---
 
-#UTFPR-CP
+# UTFPR-CP
 
 Aqui estão alguns repositórios criados no espaço da UTFPR-CP no GitHub.
 
@@ -369,7 +369,7 @@ https://github.com/utfpr-cp
 
 ---
 
-#Links
+# Links
 
 Aqui está uma coletânia de links que reuni durante as minhas andanças pela web.
 

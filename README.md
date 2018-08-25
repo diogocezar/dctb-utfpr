@@ -132,7 +132,7 @@ http://bit.ly/2BLglVA
 | NodeJS - Parte 1                                         | http://bit.ly/2LqZGG6 |
 | NodeJS - Parte 2                                         | http://bit.ly/2BL2dvv |
 | Introdução ao Laravel                                    | http://bit.ly/2Lq7x6X |
-| ntrodução ao AdonisJS                                    | http://bit.ly/2LoOQkf |
+| Introdução ao AdonisJS                                    | http://bit.ly/2LoOQkf |
 
 ## SandyBox
 

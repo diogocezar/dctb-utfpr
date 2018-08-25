@@ -24,11 +24,11 @@ __REPOSITÓRIO EM CONSTUÇÃO__
 * [(2017/2) [IF67I] Programação Web 2](#programação-web-2)
 * [(2018/1) [AN33A-N13] Programação Desktop](#programação-desktop)
 * [(2018/1) [AN34A-N14] Programação Web]()
-* [(2018/1) [ES31A-ES11] Intr. Eng. de Software]()
+* [(2018/1) [ES31A-ES11] Intr. Eng. de Software](#introdução-a-engenharia-de-software)
 * [(2018/1) [SO33A-ES31] Estrutura de Dados](#estrutura-de-dados)
 * [(2018/2) [AS34A-N14] Programação Web]()
 * [(2018/2) [IF66H-ES61] Programação Web 1]()
-* [(2018/2) [ES31A-ES11] Intr. Eng. de Software]()
+* [(2018/2) [ES31A-ES11] Intr. Eng. de Software](#introdução-a-engenharia-de-software)
 * [(2018/2) [IF62B-A21] Linguagem de Programação]()
 
 ---
@@ -213,7 +213,7 @@ http://bit.ly/2OZxD2W
 | Análise e Projetos de Sistemas                           | http://bit.ly/2LqamEX |
 | Diagramas de Casos de Uso                                | http://bit.ly/2LqYsL0 |
 | Diagramas de Atividades                                  | http://bit.ly/2Lqb3Oz |
-| Diagramas de Classes                                     | http://bit.ly/2LmSr1X |
+| Diagramas de Classes                                     | http://bit.ly/2LqYQsW |
 | Testes de Software                                       | http://bit.ly/2Los9N2 |
 
 
@@ -221,6 +221,38 @@ http://bit.ly/2OZxD2W
 
 * (2018/1) - http://bit.ly/2Los9N2
 * (2018/2) - http://bit.ly/2Lq7DLK
+
+---
+
+# Linguagem de Programação
+
+## Conteúdo
+
+| Conteúdo                                                 | Link                  |
+|----------------------------------------------------------|-----------------------|
+| Apresentação                                             | http://bit.ly/2LodWj2 |
+| Comandos Básicos Linux                                   | http://bit.ly/2LoM12D |
+| Dinâmicas                                                | http://bit.ly/2LpW33p |
+| Orientações Gerais                                       | http://bit.ly/2LtdmR0 |
+| Planejamento                                             | http://bit.ly/2Lr29QX |
+| O Futuro da Educação                                     | http://bit.ly/2LrLInA |
+| Definições Iniciais                                      | http://bit.ly/2Lr2jI3 |
+| Variáveis, Operadores e Comandos                         | http://bit.ly/2BLny82 |
+| Linguagem de Programação C                               | http://bit.ly/2LpWrPp |
+| Estruturas de Seleção                                    | http://bit.ly/2BMa23S |
+| Estruturas de Repetição                                  | http://bit.ly/2Lkhdjr |
+| Vetores                                                  | http://bit.ly/2LkhK4V |
+| Matrizes                                                 | http://bit.ly/2Lqu97w |
+| Funções                                                  | http://bit.ly/2BKTE3G |
+| Registros                                                | http://bit.ly/2BG87hn |
+| Ponteiros                                                | http://bit.ly/2Lqr0V4 |
+| Alocação Dinâmica de Memória                             | http://bit.ly/2BX9B7d |
+| Manipulação de Arquivos                                  | http://bit.ly/2LqufMq |
+| Introdução a Orientação a Objetos                        | http://bit.ly/2Lq6Uu7 |
+
+## Códigos, Exemplos e Materiais
+
+http://bit.ly/2Lq8A6M
 
 ---
 

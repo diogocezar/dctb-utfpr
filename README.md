@@ -15,6 +15,7 @@ diogo@diogocezar.com
 ## Índice de Disciplinas
 
 * [(2017/2) UTFWare](#utfware-2017)
+* [(2018/2) Secomp](#secomp-2018)
 * [(2017/2) [AN32F-IF62C] Técnicas de Programação](#técnicas-de-programação)
 * [(2017/2) [AN34E] Oficina de Integração](#oficina-de-integração)
 * [(2017/2) [IF61D] Lógica de Programação](#lógica-de-programação)
@@ -47,6 +48,14 @@ http://bit.ly/2BL72VD
 ## Minicurso SASS
 
 http://bit.ly/2LrSYQm
+
+---
+
+# Secomp 2018
+
+## Minicurso ReactJS
+
+http://bit.ly/2CTQQ52
 
 ---
 

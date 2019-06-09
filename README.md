@@ -35,6 +35,14 @@ diogo@diogocezar.com
 
 ---
 
+# Minicurso NodeJS
+
+http://bit.ly/2Ixgdcc
+
+# Minicurso ReactJS
+
+http://bit.ly/2IvNTqH
+
 # UTFWare 2017
 
 ## Talk Por que JavaScript?

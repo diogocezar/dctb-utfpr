@@ -14,6 +14,8 @@ diogo@diogocezar.com
 
 ## Índice de Disciplinas
 
+* [Minicurso NodeJS](#minicurso-nodejs)
+* [Minicurso ReactJS](#minicurso-reactjs)
 * [(2017/2) UTFWare](#utfware-2017)
 * [(2018/2) Secomp](#secomp-2018)
 * [(2017/2) [AN32F-IF62C] Técnicas de Programação](#técnicas-de-programação)

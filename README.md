@@ -16,6 +16,7 @@ diogo@diogocezar.com
 
 * [Minicurso NodeJS](#minicurso-nodejs)
 * [Minicurso ReactJS](#minicurso-reactjs)
+* [Minicurso JavaScript Básico](#minicurso-javascript-basico)
 * [(2017/2) UTFWare](#utfware-2017)
 * [(2018/2) Secomp](#secomp-2018)
 * [(2017/2) [AN32F-IF62C] Técnicas de Programação](#técnicas-de-programação)
@@ -44,6 +45,10 @@ http://bit.ly/2Ixgdcc
 # Minicurso ReactJS
 
 http://bit.ly/2IvNTqH
+
+# Minicurso JavaScript Básico
+
+http://bit.ly/2IstwL7
 
 # UTFWare 2017
 
